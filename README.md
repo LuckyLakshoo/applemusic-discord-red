@@ -19,6 +19,6 @@ Shuffle current queue.
 Add songs to queue.
 
 # Contributors
-Viet Ho (viet-phuoc@gmx.de)</br>
+Viet Phuoc Ho - LuckyLakshoo (viet-phuoc@gmx.de)</br>
 Phat Pham ()</br>
 Anh Tuyet Huynh ()
